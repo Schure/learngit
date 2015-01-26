@@ -8,3 +8,5 @@ new line 2
 add a line at dev branch
 feature: add line 2
 master: add new line 2
+master new line 3
+new line 3
